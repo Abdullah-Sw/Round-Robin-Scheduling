@@ -1,2 +1,2 @@
 # Round-Robin-Scheduling
-Statistics required: maximum and minimum burst time, total number of processes and etc...
+For the details open project-01-students.docx
