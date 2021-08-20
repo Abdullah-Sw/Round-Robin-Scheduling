@@ -62,12 +62,12 @@ public class test {
 		
 
 //		 phase 1
-//		System.out.println("==========================");
-//		System.out.println("Total number of processes: " + rr.getNumberOfProcesses());
-//		System.out.println("Maximum Burst: " + rr.getMaximumBurstTime());
-//		System.out.println("Minimum Burst: " + rr.getMinimumBurstTime());
-//		System.out.println("Number of process have more than average burst time: " + rr.countMoreThanAvg());
-//		System.out.println("Number of process have less than average burst time: " + rr.countLessThanAvg());
+		System.out.println("==========================");
+		System.out.println("Total number of processes: " + rr.getNumberOfProcesses());
+		System.out.println("Maximum Burst: " + rr.getMaximumBurstTime());
+		System.out.println("Minimum Burst: " + rr.getMinimumBurstTime());
+		System.out.println("Number of process have more than average burst time: " + rr.countMoreThanAvg());
+		System.out.println("Number of process have less than average burst time: " + rr.countLessThanAvg());
 
 		rr.startExecution();
 
