@@ -1,2 +1,2 @@
 # Round-Robin-Scheduling
-For the details open project-01-students.docx
+CSC227 Project: For the details open project-01-students.docx
